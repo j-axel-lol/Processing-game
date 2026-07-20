@@ -4,4 +4,6 @@ Make sure to install Processing first with this link: https://processing.org/dow
 If you've installed Processing, you can unzip the archive and run gfs.pde in Processing (or vs code but you'll need an extention).
 The other files are: Decrypted (font) and saveFile.json (save). Deleting any of these will cause the game not to work, this includes deleting Rectangle.pde.
 You can play and modify the game as you want.
-Hope you have fun!
+This game is pretty simple and not anything crazy, so don't get your expectations up.
+The game doesn't have sprites and doesn't have sound, do I recommend putting on your own music.
+Hope you have fun! :D
