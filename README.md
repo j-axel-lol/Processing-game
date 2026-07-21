@@ -7,3 +7,6 @@ You can play and modify the game as you want.
 This game is pretty simple and not anything crazy, so don't get your expectations up.
 The game doesn't have sprites and doesn't have sound, do I recommend putting on your own music.
 Hope you have fun! :D
+
+If you wanna tinker around with the project, feel free to do so. The Processing Reference website will be your best friend:
+https://processing.org/reference
